@@ -3,3 +3,5 @@ This file was added via github browser page
 Adding a second line
 
 Add a third line on local machine
+
+Edit a fourth line just for testing gitignore
