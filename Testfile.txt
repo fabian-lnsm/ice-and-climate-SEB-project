@@ -5,3 +5,5 @@ Adding a second line
 Add a third line on local machine
 
 Edit a fourth line just for testing gitignore
+
+Add a fifth line (locally)
