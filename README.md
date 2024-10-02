@@ -14,6 +14,8 @@ The scripts are located in the src-folder where analysisSEB.ipynb is the main sc
 
 The original data can be found in the data folder.
 
+See the docs folder for the project instructions and the final report.
+
 # Contribute
 
 Clone or fork the project and make a pull request.
