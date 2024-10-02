@@ -1,8 +1,6 @@
 # Data
-/data/temp
-/data/processed
-/data/raw
 /results/
+/src/__pycache__/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
