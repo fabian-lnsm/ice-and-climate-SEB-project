@@ -28,7 +28,7 @@ See the docs folder for the project instructions and the final report.
 Clone or fork the project and make a pull request.
 
 ```
-git clone https://github.com/fabian-lnsm/workshop-RC.git
+git fork https://github.com/fabian-lnsm/workshop-RC.git
 ```
 
 ## License
