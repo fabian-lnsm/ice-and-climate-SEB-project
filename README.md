@@ -4,9 +4,16 @@ This project uses observations from a weather station in antarctica to determine
 
 ## Configuration
 
-The exact requirements to run the project are listed in the environment file.
-
 The code is written for Python 3.10 and uses only the following modules: Numpy 1.26, Matplotlib 3.8, Seaborn, sklearn and Datetime.
+
+The exact requirements to run the project are listed in the environment file which was created using conda.
+The environment can be reproduced with the following command:
+
+```
+conda env create -f environment.yml
+```
+
+
 
 ## Repository structure
 
@@ -19,6 +26,10 @@ See the docs folder for the project instructions and the final report.
 # Contribute
 
 Clone or fork the project and make a pull request.
+
+```
+git clone https://github.com/fabian-lnsm/workshop-RC.git
+```
 
 ## License
 
